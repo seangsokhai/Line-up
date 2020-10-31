@@ -1,0 +1,50 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#section-1 {
+    background-color: rgb(35, 211, 167);
+    color: cornsilk;
+    padding: 4% 10% 0 10%;
+}
+
+.row h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.row {
+    padding: 100px;
+}
+
+/* navagation-bar */
+
+.navbar-brand {
+    font-weight: bold;
+    padding: 0 8%;
+}
+
+.nav-item {
+    margin: 0 15px;
+
+}
+
+/* featured */
+#featured {
+    padding: 3% 6%;
+    text-align: center;
+}
+
+.icon {
+    color: rgb(61, 167, 140);
+    margin-bottom: 1.5rem;
+}
+
+.icon:hover {
+    color: rgb(35, 211, 167);
+}
+
+.row p {
+    color: rgb(197, 197, 197);
+}
